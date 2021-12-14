@@ -1,3 +1,7 @@
+## Bouncing Balls on Canvas
+
+[https://ayasenko.github.io/bouncing-balls-on-canvas/](https://ayasenko.github.io/bouncing-balls-on-canvas/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
