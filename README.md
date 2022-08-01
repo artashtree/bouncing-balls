@@ -1,6 +1,6 @@
 ## Bouncing Balls on Canvas
 
-[https://artashtree.github.io/bouncing-balls/](https://artashtree.github.io/bouncing-balls/)
+[https://art-ash.github.io/bouncing-balls/](https://art-ash.github.io/bouncing-balls/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
