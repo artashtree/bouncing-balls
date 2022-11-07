@@ -1,7 +1,3 @@
-## Bouncing Balls on Canvas
-
-[https://art-ash.github.io/bouncing-balls/](https://art-ash.github.io/bouncing-balls/)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
